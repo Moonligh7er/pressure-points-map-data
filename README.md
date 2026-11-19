@@ -15,6 +15,9 @@ game itself is a Produced Work under its own terms.
   Microsoft ML Buildings, Google Open Buildings and Esri Community Maps contributors, CC BY 4.0), under the ODbL: https://docs.overturemaps.org/attribution/
 - **Washington building heights: Building Heights 1999**, Government of the District of Columbia,
   Open Data DC, under Creative Commons Attribution 4.0 (CC BY 4.0).
+- **Bar categories in `places/`: Overture Maps Foundation's places theme**, overturemaps.org, under the
+  Community Data License Agreement, Permissive 2.0 (https://cdla.dev/permissive-2-0/), with any
+  Foursquare records under Apache 2.0.
 
 ## What's here
 
