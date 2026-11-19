@@ -1,0 +1,1 @@
+{"map":"cathedral","source":"OpenStreetMap contributors (ODbL); depths and dimensions in tools/transit/stations.json and docs/SUBWAY.md","stations":[],"tracks":[],"service_source":"WMATA published headways (docs/SUBWAY.md, 'The Metro'; tools/transit/build_wmata_service.py): Red 4.5/6/10 min, Yellow and Green 6/6/8, Orange, Silver and Blue 10/12/15, peak/off-peak/late night"}

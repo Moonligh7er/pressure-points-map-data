@@ -1,0 +1,342 @@
+{
+ "built": "2026-11-19",
+ "licence": "ODbL-1.0",
+ "files": [
+  {
+   "file": "locations/bench.json",
+   "bytes": 9338045
+  },
+  {
+   "file": "locations/border.json",
+   "bytes": 14207438
+  },
+  {
+   "file": "locations/broadcast.json",
+   "bytes": 9322457
+  },
+  {
+   "file": "locations/camp.json",
+   "bytes": 50332
+  },
+  {
+   "file": "locations/campus.json",
+   "bytes": 8167387
+  },
+  {
+   "file": "locations/capitol.json",
+   "bytes": 11940075
+  },
+  {
+   "file": "locations/cathedral.json",
+   "bytes": 4905178
+  },
+  {
+   "file": "locations/commons.json",
+   "bytes": 11679821
+  },
+  {
+   "file": "locations/conflict_zone.json",
+   "bytes": 2169252
+  },
+  {
+   "file": "locations/embassy.json",
+   "bytes": 11713826
+  },
+  {
+   "file": "locations/jail.json",
+   "bytes": 3828232
+  },
+  {
+   "file": "locations/k_street.json",
+   "bytes": 6678677
+  },
+  {
+   "file": "locations/main_street.json",
+   "bytes": 11889049
+  },
+  {
+   "file": "locations/mansion.json",
+   "bytes": 5276814
+  },
+  {
+   "file": "locations/pentagon.json",
+   "bytes": 2748032
+  },
+  {
+   "file": "locations/precinct.json",
+   "bytes": 9873306
+  },
+  {
+   "file": "locations/prison.json",
+   "bytes": 71761
+  },
+  {
+   "file": "locations/silicon_valley.json",
+   "bytes": 6810424
+  },
+  {
+   "file": "locations/trading_post.json",
+   "bytes": 2673111
+  },
+  {
+   "file": "locations/wall_street.json",
+   "bytes": 6438627
+  },
+  {
+   "file": "locations/yard.json",
+   "bytes": 794182
+  },
+  {
+   "file": "places/bench.json",
+   "bytes": 64639
+  },
+  {
+   "file": "places/border.json",
+   "bytes": 49206
+  },
+  {
+   "file": "places/broadcast.json",
+   "bytes": 395222
+  },
+  {
+   "file": "places/campus.json",
+   "bytes": 60517
+  },
+  {
+   "file": "places/capitol.json",
+   "bytes": 131824
+  },
+  {
+   "file": "places/cathedral.json",
+   "bytes": 21990
+  },
+  {
+   "file": "places/commons.json",
+   "bytes": 146398
+  },
+  {
+   "file": "places/conflict_zone.json",
+   "bytes": 3497
+  },
+  {
+   "file": "places/embassy.json",
+   "bytes": 149053
+  },
+  {
+   "file": "places/jail.json",
+   "bytes": 6145
+  },
+  {
+   "file": "places/k_street.json",
+   "bytes": 189530
+  },
+  {
+   "file": "places/main_street.json",
+   "bytes": 185932
+  },
+  {
+   "file": "places/mansion.json",
+   "bytes": 151017
+  },
+  {
+   "file": "places/pentagon.json",
+   "bytes": 21795
+  },
+  {
+   "file": "places/precinct.json",
+   "bytes": 317435
+  },
+  {
+   "file": "places/silicon_valley.json",
+   "bytes": 31051
+  },
+  {
+   "file": "places/trading_post.json",
+   "bytes": 5174
+  },
+  {
+   "file": "places/wall_street.json",
+   "bytes": 155158
+  },
+  {
+   "file": "places/yard.json",
+   "bytes": 1280
+  },
+  {
+   "file": "transit/bench.json",
+   "bytes": 132953
+  },
+  {
+   "file": "transit/border.json",
+   "bytes": 123044
+  },
+  {
+   "file": "transit/broadcast.json",
+   "bytes": 350646
+  },
+  {
+   "file": "transit/campus.json",
+   "bytes": 64231
+  },
+  {
+   "file": "transit/capitol.json",
+   "bytes": 205892
+  },
+  {
+   "file": "transit/cathedral.json",
+   "bytes": 49487
+  },
+  {
+   "file": "transit/commons.json",
+   "bytes": 243266
+  },
+  {
+   "file": "transit/conflict_zone.json",
+   "bytes": 16766
+  },
+  {
+   "file": "transit/embassy.json",
+   "bytes": 140189
+  },
+  {
+   "file": "transit/jail.json",
+   "bytes": 27481
+  },
+  {
+   "file": "transit/k_street.json",
+   "bytes": 146620
+  },
+  {
+   "file": "transit/main_street.json",
+   "bytes": 224002
+  },
+  {
+   "file": "transit/mansion.json",
+   "bytes": 125848
+  },
+  {
+   "file": "transit/pentagon.json",
+   "bytes": 57209
+  },
+  {
+   "file": "transit/precinct.json",
+   "bytes": 182786
+  },
+  {
+   "file": "transit/silicon_valley.json",
+   "bytes": 60450
+  },
+  {
+   "file": "transit/trading_post.json",
+   "bytes": 165064
+  },
+  {
+   "file": "transit/wall_street.json",
+   "bytes": 138004
+  },
+  {
+   "file": "transit/yard.json",
+   "bytes": 4547
+  },
+  {
+   "file": "underground/bench.json",
+   "bytes": 15221
+  },
+  {
+   "file": "underground/broadcast.json",
+   "bytes": 143006
+  },
+  {
+   "file": "underground/campus.json",
+   "bytes": 4539
+  },
+  {
+   "file": "underground/capitol.json",
+   "bytes": 30319
+  },
+  {
+   "file": "underground/cathedral.json",
+   "bytes": 377
+  },
+  {
+   "file": "underground/commons.json",
+   "bytes": 53423
+  },
+  {
+   "file": "underground/embassy.json",
+   "bytes": 15640
+  },
+  {
+   "file": "underground/jail.json",
+   "bytes": 7187
+  },
+  {
+   "file": "underground/k_street.json",
+   "bytes": 19040
+  },
+  {
+   "file": "underground/mansion.json",
+   "bytes": 24233
+  },
+  {
+   "file": "underground/pentagon.json",
+   "bytes": 11537
+  },
+  {
+   "file": "underground/precinct.json",
+   "bytes": 127672
+  },
+  {
+   "file": "underground/wall_street.json",
+   "bytes": 95834
+  },
+  {
+   "file": "buses/bench.json",
+   "bytes": 54324
+  },
+  {
+   "file": "buses/campus.json",
+   "bytes": 58064
+  },
+  {
+   "file": "buses/capitol.json",
+   "bytes": 121520
+  },
+  {
+   "file": "buses/cathedral.json",
+   "bytes": 68398
+  },
+  {
+   "file": "buses/commons.json",
+   "bytes": 168620
+  },
+  {
+   "file": "buses/embassy.json",
+   "bytes": 144671
+  },
+  {
+   "file": "buses/jail.json",
+   "bytes": 14266
+  },
+  {
+   "file": "buses/k_street.json",
+   "bytes": 139149
+  },
+  {
+   "file": "buses/mansion.json",
+   "bytes": 103420
+  },
+  {
+   "file": "buses/pentagon.json",
+   "bytes": 35293
+  },
+  {
+   "file": "board/boards.json",
+   "bytes": 13021
+  },
+  {
+   "file": "cameras/osm_cameras.json",
+   "bytes": 258739
+  }
+ ]
+}

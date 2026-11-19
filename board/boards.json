@@ -1,0 +1,762 @@
+{
+ "_about": "Each board map's image (Board/<map>.png) and the map-local metres it covers, from tools/board/build_boards.py: OpenStreetMap contributors (ODbL) and Overture Maps buildings, as locations/<map>.json.",
+ "bench": {
+  "height": 2048,
+  "max_x": 1200,
+  "max_z": 1200,
+  "memorials": [
+   {
+    "name": "Robert A. Taft Memorial",
+    "x": -570.4,
+    "z": 238.4
+   }
+  ],
+  "min_x": -1200,
+  "min_z": -1200,
+  "name": "The Bench",
+  "police": [],
+  "width": 2048
+ },
+ "border": {
+  "height": 1492,
+  "max_x": 3502.01,
+  "max_z": 2003.76,
+  "memorials": [
+   {
+    "name": "Bandera Monumental",
+    "x": 2975.6,
+    "z": -750.0
+   },
+   {
+    "name": "Historic Boundary Monument",
+    "x": 2738.2,
+    "z": 745.0
+   },
+   {
+    "name": "Memorial",
+    "x": 3176.2,
+    "z": 187.1
+   },
+   {
+    "name": "Los Indomables",
+    "x": 2828.3,
+    "z": -702.4
+   },
+   {
+    "name": "Jose Maria Morelos y Pavon",
+    "x": 3007.5,
+    "z": -1376.1
+   },
+   {
+    "name": "Memorial",
+    "x": 3022.3,
+    "z": -1411.7
+   },
+   {
+    "name": "Memorial",
+    "x": 3149.2,
+    "z": 104.9
+   },
+   {
+    "name": "Memorial",
+    "x": 3244.7,
+    "z": 507.8
+   },
+   {
+    "name": "Memorial",
+    "x": 3197.6,
+    "z": 424.3
+   },
+   {
+    "name": "Memorial",
+    "x": -224.1,
+    "z": -1360.2
+   },
+   {
+    "name": "Memorial",
+    "x": 1507.5,
+    "z": -1008.4
+   },
+   {
+    "name": "Memorial",
+    "x": 1351.4,
+    "z": -1117.3
+   },
+   {
+    "name": "Mega Bandera",
+    "x": 2975.6,
+    "z": -750.0
+   },
+   {
+    "name": "Rotary International",
+    "x": 2808.2,
+    "z": -1083.8
+   },
+   {
+    "name": "Tom Lea obelisk",
+    "x": -553.0,
+    "z": 1415.8
+   },
+   {
+    "name": "Feminicidios",
+    "x": -213.2,
+    "z": -1531.9
+   },
+   {
+    "name": "Memorial",
+    "x": 3030.7,
+    "z": -1314.2
+   },
+   {
+    "name": "El Bombero",
+    "x": 1187.7,
+    "z": -1422.1
+   },
+   {
+    "name": "Memorial",
+    "x": 1893.6,
+    "z": -1766.7
+   },
+   {
+    "name": "Memorial",
+    "x": 2888.2,
+    "z": -643.3
+   },
+   {
+    "name": "Lions",
+    "x": 2888.0,
+    "z": -1333.9
+   },
+   {
+    "name": "Monumento al Benemerito de las Am\u00e9ricas",
+    "x": 2947.9,
+    "z": -364.3
+   }
+  ],
+  "min_x": -1997.09,
+  "min_z": -2003.76,
+  "name": "The Border",
+  "police": [],
+  "width": 2048
+ },
+ "broadcast": {
+  "height": 2048,
+  "max_x": 1197.37,
+  "max_z": 1502.82,
+  "memorials": [
+   {
+    "name": "Marilyn Monroe subway grate",
+    "x": 1176.9,
+    "z": -32.8
+   },
+   {
+    "name": "The Kneeling Fireman",
+    "x": 494.6,
+    "z": -467.9
+   },
+   {
+    "name": "James Gordon Bennett Monument",
+    "x": -176.9,
+    "z": -846.3
+   },
+   {
+    "name": "Christopher Columbus Monument",
+    "x": 303.7,
+    "z": 1120.8
+   },
+   {
+    "name": "USS Maine Monument",
+    "x": 380.6,
+    "z": 1140.5
+   },
+   {
+    "name": "Horace Greely Statue",
+    "x": -241.1,
+    "z": -1048.8
+   },
+   {
+    "name": "Memorial",
+    "x": 322.3,
+    "z": -545.2
+   },
+   {
+    "name": "Memorial",
+    "x": 310.4,
+    "z": -566.6
+   },
+   {
+    "name": "Goethe",
+    "x": 147.0,
+    "z": -513.8
+   },
+   {
+    "name": "Memorial",
+    "x": 300.7,
+    "z": -605.4
+   },
+   {
+    "name": "Memorial",
+    "x": 350.6,
+    "z": -514.9
+   },
+   {
+    "name": "Memorial",
+    "x": 338.1,
+    "z": -550.3
+   },
+   {
+    "name": "Memorial",
+    "x": 323.8,
+    "z": -576.1
+   }
+  ],
+  "min_x": -1433.47,
+  "min_z": -1202.26,
+  "name": "Broadcast Tower",
+  "police": [],
+  "width": 1992
+ },
+ "camp": {
+  "height": 2048,
+  "max_x": 800,
+  "max_z": 800,
+  "memorials": [],
+  "min_x": -800,
+  "min_z": -800,
+  "name": "The Camp",
+  "police": [],
+  "width": 2048
+ },
+ "campus": {
+  "height": 2048,
+  "max_x": 1500,
+  "max_z": 1500,
+  "memorials": [],
+  "min_x": -1500,
+  "min_z": -1500,
+  "name": "The Campus",
+  "police": [],
+  "width": 2048
+ },
+ "capitol": {
+  "height": 2048,
+  "max_x": 1500,
+  "max_z": 1500,
+  "memorials": [
+   {
+    "name": "Robert A. Taft Memorial",
+    "x": -163.1,
+    "z": 316.3
+   }
+  ],
+  "min_x": -1500,
+  "min_z": -1500,
+  "name": "Capitol Hill",
+  "police": [],
+  "width": 2048
+ },
+ "cathedral": {
+  "height": 2048,
+  "max_x": 1200,
+  "max_z": 1200,
+  "memorials": [],
+  "min_x": -1200,
+  "min_z": -1200,
+  "name": "The Cathedral",
+  "police": [],
+  "width": 2048
+ },
+ "commons": {
+  "height": 1160,
+  "max_x": 3188.6,
+  "max_z": 1335.84,
+  "memorials": [
+   {
+    "name": "Lyndon B. Johnson Memorial",
+    "x": -1388.7,
+    "z": -1207.2
+   },
+   {
+    "name": "Robert A. Taft Memorial",
+    "x": 2107.0,
+    "z": 360.8
+   },
+   {
+    "name": "World War II Memorial",
+    "x": -437.6,
+    "z": -10.6
+   },
+   {
+    "name": "Korean War Veterans Memorial",
+    "x": -1061.4,
+    "z": -189.6
+   },
+   {
+    "name": "Vietnam Veterans Memorial",
+    "x": -1069.1,
+    "z": 182.3
+   },
+   {
+    "name": "DC War Memorial",
+    "x": -710.2,
+    "z": -211.5
+   },
+   {
+    "name": "Jefferson Memorial",
+    "x": -108.4,
+    "z": -899.3
+   },
+   {
+    "name": "National World War I Memorial",
+    "x": 212.7,
+    "z": 716.0
+   },
+   {
+    "name": "Lincoln Memorial",
+    "x": -1288.6,
+    "z": -25.4
+   },
+   {
+    "name": "Martin Luther King, Jr. Memorial",
+    "x": -772.7,
+    "z": -363.6
+   },
+   {
+    "name": "Franklin Delano Roosevelt Memorial",
+    "x": -648.0,
+    "z": -692.7
+   },
+   {
+    "name": "Washington Monument",
+    "x": 5.0,
+    "z": -2.8
+   },
+   {
+    "name": "Dwight D. Eisenhower Memorial",
+    "x": 1433.2,
+    "z": -266.2
+   },
+   {
+    "name": "A Prayer For The Nation",
+    "x": -497.4,
+    "z": 87.3
+   }
+  ],
+  "min_x": -1923.56,
+  "min_z": -1558.48,
+  "name": "The Commons",
+  "police": [
+   {
+    "name": "US Capitol Police HQ",
+    "x": 2486.8,
+    "z": 322.8
+   },
+   {
+    "name": "MPD HQ (Daly Building)",
+    "x": 1810.9,
+    "z": 512.1
+   },
+   {
+    "name": "Secret Service HQ",
+    "x": -571.9,
+    "z": 924.0
+   },
+   {
+    "name": "Federal Protective Svc",
+    "x": 2252.8,
+    "z": 1046.4
+   },
+   {
+    "name": "FBI Hoover Building",
+    "x": 883.8,
+    "z": 601.1
+   },
+   {
+    "name": "DOJ Main Building",
+    "x": 875.1,
+    "z": 378.5
+   },
+   {
+    "name": "US Park Police HQ",
+    "x": 268.6,
+    "z": -1525.1
+   }
+  ],
+  "width": 2048
+ },
+ "conflict_zone": {
+  "height": 2048,
+  "max_x": 2000,
+  "max_z": 2000,
+  "memorials": [],
+  "min_x": -2000,
+  "min_z": -2000,
+  "name": "Conflict Zone",
+  "police": [],
+  "width": 2048
+ },
+ "embassy": {
+  "height": 1803,
+  "max_x": 1204.05,
+  "max_z": 1725.46,
+  "memorials": [],
+  "min_x": -2122.25,
+  "min_z": -1202.26,
+  "name": "The Embassy",
+  "police": [],
+  "width": 2048
+ },
+ "jail": {
+  "height": 2048,
+  "max_x": 1000,
+  "max_z": 1000,
+  "memorials": [
+   {
+    "name": "Alexander Dallas Bache",
+    "x": -158.4,
+    "z": -428.9
+   }
+  ],
+  "min_x": -1000,
+  "min_z": -1000,
+  "name": "The Jail",
+  "police": [],
+  "width": 2048
+ },
+ "k_street": {
+  "height": 2048,
+  "max_x": 1200,
+  "max_z": 1200,
+  "memorials": [
+   {
+    "name": "National World War I Memorial",
+    "x": 238.6,
+    "z": -720.0
+   }
+  ],
+  "min_x": -1200,
+  "min_z": -1200,
+  "name": "K Street",
+  "police": [],
+  "width": 2048
+ },
+ "main_street": {
+  "height": 2048,
+  "max_x": 1500,
+  "max_z": 1500,
+  "memorials": [],
+  "min_x": -1500,
+  "min_z": -1500,
+  "name": "Main Street",
+  "police": [],
+  "width": 2048
+ },
+ "mansion": {
+  "height": 2048,
+  "max_x": 1200,
+  "max_z": 1200,
+  "memorials": [
+   {
+    "name": "World War II Memorial",
+    "x": -333.6,
+    "z": -923.5
+   },
+   {
+    "name": "Korean War Veterans Memorial",
+    "x": -957.3,
+    "z": -1102.4
+   },
+   {
+    "name": "Vietnam Veterans Memorial",
+    "x": -965.0,
+    "z": -730.5
+   },
+   {
+    "name": "DC War Memorial",
+    "x": -606.2,
+    "z": -1124.4
+   },
+   {
+    "name": "National World War I Memorial",
+    "x": 316.6,
+    "z": -196.8
+   },
+   {
+    "name": "Lincoln Memorial",
+    "x": -1184.5,
+    "z": -938.2
+   },
+   {
+    "name": "Washington Monument",
+    "x": 109.0,
+    "z": -915.6
+   },
+   {
+    "name": "A Prayer For The Nation",
+    "x": -393.4,
+    "z": -825.5
+   }
+  ],
+  "min_x": -1200,
+  "min_z": -1200,
+  "name": "The Mansion",
+  "police": [],
+  "width": 2048
+ },
+ "pentagon": {
+  "height": 2048,
+  "max_x": 1500,
+  "max_z": 1500,
+  "memorials": [
+   {
+    "name": "McClellan Gate",
+    "x": -940.4,
+    "z": 768.0
+   },
+   {
+    "name": "Queen City",
+    "x": 70.1,
+    "z": -1190.1
+   },
+   {
+    "name": "Lyndon B. Johnson Memorial",
+    "x": 431.0,
+    "z": 752.0
+   },
+   {
+    "name": "Mclellan Gate",
+    "x": -938.9,
+    "z": 770.0
+   },
+   {
+    "name": "United States Air Force Memorial",
+    "x": -889.5,
+    "z": -382.0
+   },
+   {
+    "name": "Women in Military Service for America Memorial",
+    "x": -1061.1,
+    "z": 1192.8
+   },
+   {
+    "name": "United States Air Force Memorial",
+    "x": -901.1,
+    "z": -364.1
+   },
+   {
+    "name": "Franklin Delano Roosevelt Memorial",
+    "x": 1171.8,
+    "z": 1266.6
+   },
+   {
+    "name": "Civil War Unknowns Monument",
+    "x": -1460.9,
+    "z": 948.3
+   },
+   {
+    "name": "Memorial",
+    "x": -1375.4,
+    "z": 499.5
+   },
+   {
+    "name": "Memorial",
+    "x": -1380.2,
+    "z": 502.1
+   },
+   {
+    "name": "Memorial",
+    "x": -1380.2,
+    "z": 499.8
+   },
+   {
+    "name": "Memorial",
+    "x": -1380.4,
+    "z": 497.6
+   }
+  ],
+  "min_x": -1500,
+  "min_z": -1500,
+  "name": "The Pentagon",
+  "police": [],
+  "width": 2048
+ },
+ "precinct": {
+  "height": 2048,
+  "max_x": 1200,
+  "max_z": 1200,
+  "memorials": [
+   {
+    "name": "Wodworth Building",
+    "x": -528.0,
+    "z": -69.5
+   },
+   {
+    "name": "9/11 Cross A Symbol of Hope",
+    "x": -626.9,
+    "z": 2.1
+   },
+   {
+    "name": "Bowling Green Fence",
+    "x": -965.6,
+    "z": -855.6
+   },
+   {
+    "name": "Bowling Green Marker",
+    "x": -959.9,
+    "z": -834.7
+   },
+   {
+    "name": "Castello Plan",
+    "x": -938.6,
+    "z": -1134.2
+   },
+   {
+    "name": "World War I/II victims",
+    "x": -1044.4,
+    "z": -1029.1
+   },
+   {
+    "name": "St. Nicholas National Shrine Donor Wall",
+    "x": -924.3,
+    "z": -261.2
+   },
+   {
+    "name": "Horace Greeley",
+    "x": -220.8,
+    "z": 62.6
+   },
+   {
+    "name": "North Bronze Names Parapets",
+    "x": -917.7,
+    "z": -29.1
+   },
+   {
+    "name": "South Bronze Names Parapets",
+    "x": -909.7,
+    "z": -152.6
+   }
+  ],
+  "min_x": -1200,
+  "min_z": -1200,
+  "name": "The Precinct",
+  "police": [],
+  "width": 2048
+ },
+ "prison": {
+  "height": 2048,
+  "max_x": 700,
+  "max_z": 700,
+  "memorials": [],
+  "min_x": -700,
+  "min_z": -700,
+  "name": "The Prison",
+  "police": [],
+  "width": 2048
+ },
+ "silicon_valley": {
+  "height": 2048,
+  "max_x": 2000,
+  "max_z": 2000,
+  "memorials": [
+   {
+    "name": "Stan The T-Rex",
+    "x": -60.7,
+    "z": -15.8
+   }
+  ],
+  "min_x": -2000,
+  "min_z": -2000,
+  "name": "Silicon Valley",
+  "police": [],
+  "width": 2048
+ },
+ "trading_post": {
+  "height": 1507,
+  "max_x": 1499.29,
+  "max_z": 1502.82,
+  "memorials": [],
+  "min_x": -5775.05,
+  "min_z": -3851.67,
+  "name": "Trading Post",
+  "police": [],
+  "width": 2048
+ },
+ "wall_street": {
+  "height": 2048,
+  "max_x": 1200,
+  "max_z": 1200,
+  "memorials": [
+   {
+    "name": "Wodworth Building",
+    "x": 231.4,
+    "z": 487.1
+   },
+   {
+    "name": "9/11 Cross A Symbol of Hope",
+    "x": 132.6,
+    "z": 558.7
+   },
+   {
+    "name": "Bowling Green Fence",
+    "x": -206.2,
+    "z": -299.0
+   },
+   {
+    "name": "Bowling Green Marker",
+    "x": -200.5,
+    "z": -278.1
+   },
+   {
+    "name": "Castello Plan",
+    "x": -179.2,
+    "z": -577.6
+   },
+   {
+    "name": "World War I/II victims",
+    "x": -285.0,
+    "z": -472.5
+   },
+   {
+    "name": "Norwegian Veterans Monument",
+    "x": -509.8,
+    "z": -403.1
+   },
+   {
+    "name": "St. Nicholas National Shrine Donor Wall",
+    "x": -164.9,
+    "z": 295.4
+   },
+   {
+    "name": "Horace Greeley",
+    "x": 538.6,
+    "z": 619.2
+   },
+   {
+    "name": "North Bronze Names Parapets",
+    "x": -158.3,
+    "z": 527.5
+   },
+   {
+    "name": "South Bronze Names Parapets",
+    "x": -150.3,
+    "z": 404.0
+   }
+  ],
+  "min_x": -1200,
+  "min_z": -1200,
+  "name": "Wall Street",
+  "police": [],
+  "width": 2048
+ },
+ "yard": {
+  "height": 2048,
+  "max_x": 1500,
+  "max_z": 1500,
+  "memorials": [],
+  "min_x": -1500,
+  "min_z": -1500,
+  "name": "The Yard",
+  "police": [],
+  "width": 2048
+ }
+}
